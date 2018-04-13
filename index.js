@@ -12,11 +12,11 @@ function yourAnimal() {
   return animal
 }
 
-function add2(n) {
+function add2(n) { //Done! Don't change this one anymore!
   const two = 2
   return n + two
 
-  // Feel free to move things around!
+
 
 }
 
